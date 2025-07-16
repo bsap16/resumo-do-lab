@@ -1,2 +1,3 @@
-# resumo-do-lab
-Este repositório será sobre o que eu aprendi no curso sobre Azure. || This repository will cover the topics I learned in the Azure course.
+# Resumo do lab. da DIO #
+
+### Neste repositório eu irei colocar os tópicos aprendidos e resumos do curso de Computação em nuvem com Azure. ###
